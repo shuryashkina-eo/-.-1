@@ -5,4 +5,3 @@ unique_users = dict.fromkeys(users)
 dictionary ['Уникальные посещения'] = len(unique_users)
 print(dictionary)
 # TODO Добавьте словарь и замените в нем нулевые значения статисчикой посещений
-
